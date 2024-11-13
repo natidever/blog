@@ -149,7 +149,7 @@ class _PostBlogState extends State<PostBlog> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              const SizedBox(height: 20),
+              const SizedBox(height: 8),
               Text(
                 'Tell your story,\nthe world will hear.',
                 style: GoogleFonts.roboto(
